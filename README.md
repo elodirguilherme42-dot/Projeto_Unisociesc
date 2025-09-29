@@ -1,0 +1,1 @@
+Este é um programa que cadastra usuarios em um banco de dados e permite o usuario vizualizar eventos da ciadade a onde ele reside e tbm permite que ele marque presença, ele tbm recebe avisos do evento quando esta proximo!
